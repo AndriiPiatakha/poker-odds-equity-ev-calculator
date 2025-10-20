@@ -5,6 +5,12 @@ The Poker Odds & EV Advisor API is a powerful tool for poker players, app develo
   <a href="https://rapidapi.com/vintarok-vintarok-default/api/poker-odds-equity-ev-calculator-advice-api" target="_blank"><b>RapidAPI</b></a> 🚀
 </p>
 
+<p align="center">
+  <a href="https://rapidapi.com/vintarok-vintarok-default/api/poker-odds-equity-ev-calculator-advice-api">
+    <img src="logo.png" width="120" alt="Poker Odds API Logo">
+  </a>
+</p>
+
 Our engine uses Monte Carlo simulations to deliver detailed win and tie probabilities for any number of players and board states. Beyond basic odds, it provides full equity analysis, expected value (EV) breakdowns, and final hand category distributions (pairs, straights, flushes, full houses, and more).  
 
 With integrated break-even call thresholds and maximum profitable call amounts, the API empowers users to make mathematically correct strategic decisions — whether to call, fold, or determine up to which bet size a call remains +EV.  
