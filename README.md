@@ -1,3 +1,5 @@
+# Poker Odds + EV Calculator & Advice — Free API for Texas Hold’em
+
 The Poker Odds & EV Advisor API is a powerful tool for poker players, app developers, and gaming platforms who need accurate Texas Hold’em odds calculations in real time.  
 
 <p align="center">
